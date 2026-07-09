@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+<defs><linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#40D0E0"/><stop offset="1" stop-color="#3A46C0"/></linearGradient>
+<path id="top" d="M 48,256 A 208,208 0 0 1 464,256"/><path id="bot" d="M 16,256 A 240,240 0 0 0 496,256"/></defs>
+<circle cx="256" cy="256" r="256" fill="url(#grad)"/><circle cx="256" cy="256" r="192" fill="#FFFFFF"/>
+<g transform="translate(46.65,83) scale(1.6355)"><path fill="url(#grad)" d="M128 214 C128 214 24 150 24 84 C24 54 48 40 72 40 C100 40 128 66 128 84 C128 66 156 40 184 40 C208 40 232 54 232 84 C232 150 128 214 128 214 Z"/>
+<path fill="none" stroke="#FF5C5C" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" d="M52 132 H104 L114 132 L122 96 L132 172 L142 114 L150 132 H204"/></g>
+<text font-family="Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="8" fill="#FF5C5C"><textPath href="#top" startOffset="50%" text-anchor="middle">MYOCARD</textPath></text>
+<text font-family="Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="8" fill="#FF5C5C"><textPath href="#bot" startOffset="50%" text-anchor="middle">LABS</textPath></text></svg>
